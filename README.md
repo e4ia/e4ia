@@ -19,7 +19,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ## 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/YOUR_DISCORD_USERNAME-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](YOUR_DISCORD_LINK)
+[![Discord](https://img.shields.io/badge/e4ia-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](YOUR_DISCORD_LINK)
 [![Email](https://img.shields.io/badge/moheeba109%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moheeba109@gmail.com)
 
 ---
