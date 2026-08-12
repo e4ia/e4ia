@@ -10,23 +10,22 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 * 💻 Build modern websites and web applications
 * 🎨 Design clean and simple interfaces
-* 🧠 Learn new programming technologies
-* 🔧 Work on personal and community projects
+* 🧠 Learn new technologies and programming concepts
+* 🔧 Build personal and community projects
 * 🚀 Turn ideas into real products
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](YOUR_DISCORD_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Discord](https://img.shields.io/badge/YOUR_DISCORD_USERNAME-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](YOUR_DISCORD_LINK)
+[![Email](https://img.shields.io/badge/moheeba109%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moheeba109@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -34,17 +33,18 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### Database
+### 🗄️ Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Tools
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -54,28 +54,28 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=dark\&hide_border=true)
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I'm working on and learning from.
+I enjoy building projects that help me learn, experiment, and turn ideas into real applications.
 
 ---
 
-### 💡 Currently Learning
+## 📚 Currently Learning
 
 * Advanced JavaScript & TypeScript
-* React
+* React & Modern Frontend Development
 * Backend Development
-* Databases
+* PostgreSQL & Database Design
 * UI/UX Design
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
