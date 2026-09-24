@@ -136,17 +136,17 @@ to discover better ways to build things.
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://lovable.dev/">
     <img
-      src="https://cdn.simpleicons.org/lovable/FF4F8B"
+      src="https://raw.githubusercontent.com/lovable-dev/lovable/main/apps/web/public/favicon.ico"
       height="55"
       alt="Lovable"
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.canva.com/">
     <img
@@ -295,8 +295,8 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
- width="90%"
+ src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+ width="100%"
 />
 
 </p>
@@ -308,7 +308,7 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=00000000&color=64748B&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=00000000&color=2563EB&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph"
  width="100%"
 />
 
