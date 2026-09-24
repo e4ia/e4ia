@@ -283,16 +283,13 @@ and how to turn them into better and more reliable projects.
 
 ---
 
-<!-- ✅ FIX: Removed incorrect title=2563EB (was filtering out all trophies). Changed to theme=algolia for blue styling -->
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
- src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
- width="100%"
-/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&row=2&column=4&margin-w=12&margin-h=12"
+    width="100%"
+  />
 </p>
 
 ---
@@ -301,7 +298,7 @@ and how to turn them into better and more reliable projects.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=react-dark&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=github-compact&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&area=true&radius=16"
     width="100%"
   />
 </p>
