@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Moheeb <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/EgyptFlagMove.gif/330px-EgyptFlagMove.gif?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/>
+# 👋 Hey, I'm Moheeb <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/EgyptFlagMove.gif/330px-EgyptFlagMove.gif" height="30" alt="Egypt Flag"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3BCE,100:2563EB&height=220&section=header&text=Moheeb&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -261,17 +261,13 @@ and how to turn them into better and more reliable projects.
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e4ia&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=e4ia&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=e4ia&theme=github_dark" width="32%"/>
+</p>
 
-<img
- src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff&ring_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true&border_radius=10"
- width="49%"
-/>
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff&langs_count=8&border_radius=10"
- width="49%"
-/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e4ia&theme=github_dark" width="99%"/>
 </p>
 
 ---
@@ -279,12 +275,10 @@ and how to turn them into better and more reliable projects.
 # 🔥 Contribution Streak
 
 <p align="center">
-
-<img
- src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=94A3B8&dates=94A3B8&sideNums=ffffff&currStreakNum=ffffff&border_radius=10"
- width="75%"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=e4ia&theme=dark&hide_border=true&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=2563EB&border_radius=10"
+    width="75%"
+  />
 </p>
 
 ---
@@ -306,12 +300,10 @@ and how to turn them into better and more reliable projects.
 # 📈 Contribution Activity
 
 <p align="center">
-
-<img
- src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=0D1117&color=94A3B8&line=2563EB&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&title_color=2563EB"
- width="100%"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=react-dark&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&area=true"
+    width="100%"
+  />
 </p>
 
 ---
