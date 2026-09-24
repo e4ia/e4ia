@@ -287,7 +287,7 @@ and how to turn them into better and more reliable projects.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&row=2&column=4&margin-w=12&margin-h=12"
+    src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN"
     width="100%"
   />
 </p>
@@ -298,7 +298,15 @@ and how to turn them into better and more reliable projects.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=github-compact&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&area=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=github-compact&hide_border=true&area=true&custom_title=Moheeb's%20Contribution%20Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2563EB/e4ia"
+    alt="Moheeb GitHub Contribution Chart"
     width="100%"
   />
 </p>
