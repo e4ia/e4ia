@@ -263,12 +263,12 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=2563EB&ring_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true"
+ src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff&ring_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true&border_radius=10"
  width="49%"
 />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=2563EB&langs_count=8"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff&langs_count=8&border_radius=10"
  width="49%"
 />
 
@@ -276,13 +276,12 @@ and how to turn them into better and more reliable projects.
 
 ---
 
-<!-- ✅ FIX: Added sideNums and currStreakNum colors so all numbers are visible -->
 # 🔥 Contribution Streak
 
 <p align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=2563EB&sideNums=2563EB&currStreakNum=2563EB"
+ src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=94A3B8&dates=94A3B8&sideNums=ffffff&currStreakNum=ffffff&border_radius=10"
  width="75%"
 />
 
@@ -304,13 +303,12 @@ and how to turn them into better and more reliable projects.
 
 ---
 
-<!-- ✅ FIX: Added title_color=2563EB so the graph title is visible -->
 # 📈 Contribution Activity
 
 <p align="center">
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=00000000&color=2563EB&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&title_color=2563EB"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=0D1117&color=94A3B8&line=2563EB&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&title_color=2563EB"
  width="100%"
 />
 
