@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Moheeb
+# 👋 Hey, I'm Moheeb <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Egypt_240-animated-flag-gifs.gif" height="30" alt="Egypt Flag"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3BCE,100:2563EB&height=220&section=header&text=Moheeb&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  I build websites, applications, bots, and digital projects
-  while constantly learning and experimenting with new technologies.
+  I'm an Egyptian student & developer who builds websites, applications, bots, and digital projects
+  while constantly learning and experimenting with new technologies. 🇪🇬
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 # 👨‍💻 About Me
 
-I'm a student and developer passionate about **web development, applications,
+I'm a student and developer from Egypt 🇪🇬 passionate about **web development, applications,
 automation, and community projects**.
 
 I enjoy turning ideas into real products, understanding how things work behind
@@ -130,7 +130,7 @@ to discover better ways to build things.
 
   <a href="https://antigravity.google/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/google-antigravity.png"
+      src="https://google.gallerycdn.vsassets.io/extensions/google/googleantigravity/1.0.260914.2/1789674335141/Microsoft.VisualStudio.Services.Icons.Default"
       height="55"
       alt="Google Antigravity"
     />
@@ -150,7 +150,7 @@ to discover better ways to build things.
 
   <a href="https://www.canva.com/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/canva/00C4CC"
+      src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png"
       height="55"
       alt="Canva"
     />
@@ -264,12 +264,12 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=64748B&ring_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true"
+ src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=2563EB&ring_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true"
  width="49%"
 />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B&langs_count=8"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=2563EB&langs_count=8"
  width="49%"
 />
 
@@ -282,7 +282,7 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B"
+ src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=2563EB"
  width="75%"
 />
 
@@ -295,7 +295,7 @@ and how to turn them into better and more reliable projects.
 <p align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+ src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=flat&title=2563EB&no-frame=true&no-bg=true&row=1&column=6"
  width="100%"
 />
 
