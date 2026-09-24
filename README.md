@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/e4ia">
+  <a href="https://github.com/e4ia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-e4ia-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/e4ia" onclick="navigator.clipboard.writeText('e4ia')" target="_blank" title="Copy Discord ID: e4ia">
     <img src="https://img.shields.io/badge/Discord-e4ia-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:moheeba109@gmail.com">
+  <a href="mailto:moheeba109@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -128,9 +128,9 @@ to discover better ways to build things.
 
 <p align="center">
 
-  <a href="https://antigravity.google/">
+  <a href="https://antigravity.google/" target="_blank">
     <img
-      src="https://www.gstatic.com/antigravity/antigravity-icon.png"
+      src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/google-antigravity.png"
       height="55"
       alt="Google Antigravity"
     />
@@ -138,9 +138,9 @@ to discover better ways to build things.
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://lovable.dev/">
+  <a href="https://lovable.dev/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/lovable-dev/lovable/main/apps/web/public/favicon.ico"
+      src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable.svg"
       height="55"
       alt="Lovable"
     />
@@ -148,7 +148,7 @@ to discover better ways to build things.
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.canva.com/">
+  <a href="https://www.canva.com/" target="_blank">
     <img
       src="https://cdn.simpleicons.org/canva/00C4CC"
       height="55"
@@ -358,15 +358,15 @@ and how to turn them into better and more reliable projects.
 
 <p align="center">
 
-<a href="https://github.com/e4ia">
+<a href="https://github.com/e4ia" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-e4ia-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/users/e4ia" onclick="navigator.clipboard.writeText('e4ia')" target="_blank" title="Copy Discord ID: e4ia">
   <img src="https://img.shields.io/badge/Discord-e4ia-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:moheeba109@gmail.com">
+<a href="mailto:moheeba109@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-moheeba109%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
