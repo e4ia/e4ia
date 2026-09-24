@@ -19,7 +19,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ## 🌐 Connect With Me
 
-[![Discord](https://shields.io)](YOUR_DISCORD_LINK)
+[![Discord](https://shields.io)](https://discord.com)
 [![Email](https://shields.io)](mailto:moheeba109@gmail.com)
 
 ---
@@ -62,8 +62,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=e4ia&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4ia&layout=compact&hide_border=true&theme=dark" />
+  <img width="49%" src="https://vercel.app" />
+  <img width="49%" src="https://vercel.app" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=e4ia&theme=dark&hide_border=true" />
+  <img src="https://demolab.com" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+  <img src="https://vercel.app" />
 </p>
 
 ---
