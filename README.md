@@ -283,25 +283,19 @@ and how to turn them into better and more reliable projects.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN"
-    width="100%"
-  />
+  <img src="https://img.shields.io/github/followers/e4ia?style=for-the-badge&logo=github&label=Followers&color=2563EB&labelColor=0D1117&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/e4ia?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=2563EB&labelColor=0D1117&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/public_repos/e4ia?style=for-the-badge&logo=github&label=Repos&color=2563EB&labelColor=0D1117&logoColor=white" />
 </p>
 
 ---
 
 # 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&theme=github-compact&hide_border=true&area=true&custom_title=Moheeb's%20Contribution%20Graph"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   <img
