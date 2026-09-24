@@ -124,46 +124,47 @@ to discover better ways to build things.
 
 ---
 
+<!-- ✅ FIX: AI Tools section restructured with a centered table for proper icon + label alignment -->
 # 🤖 AI & Development Tools
 
 <p align="center">
-
-  <a href="https://antigravity.google/" target="_blank">
-    <img
-      src="https://google.gallerycdn.vsassets.io/extensions/google/googleantigravity/1.0.260914.2/1789674335141/Microsoft.VisualStudio.Services.Icons.Default"
-      height="55"
-      alt="Google Antigravity"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://lovable.dev/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable.svg"
-      height="55"
-      alt="Lovable"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.canva.com/" target="_blank">
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png"
-      height="55"
-      alt="Canva"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-  <b>Google Antigravity</b>
-  &nbsp; • &nbsp;
-  <b>Lovable</b>
-  &nbsp; • &nbsp;
-  <b>Canva</b>
+  <table border="0" cellpadding="18" cellspacing="0">
+    <tr>
+      <td align="center">
+        <a href="https://antigravity.google/" target="_blank">
+          <img
+            src="https://google.gallerycdn.vsassets.io/extensions/google/googleantigravity/1.0.260914.2/1789674335141/Microsoft.VisualStudio.Services.Icons.Default"
+            height="55"
+            alt="Google Antigravity"
+          />
+          <br/>
+          <b>Google Antigravity</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://lovable.dev/" target="_blank">
+          <img
+            src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable.svg"
+            height="55"
+            alt="Lovable"
+          />
+          <br/>
+          <b>Lovable</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.canva.com/" target="_blank">
+          <img
+            src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png"
+            height="55"
+            alt="Canva"
+          />
+          <br/>
+          <b>Canva</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -247,9 +248,7 @@ and infrastructure that power my projects.
 # 💡 My Approach
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Build+it.;Understand+it.;Improve+it.;Repeat+%F0%9F%9A%80" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Build+it.;Understand+it.;Improve+it.;Repeat+%F0%9F%9A%80" />
 </p>
 
 I don't just want things to work.
@@ -277,12 +276,13 @@ and how to turn them into better and more reliable projects.
 
 ---
 
+<!-- ✅ FIX: Added sideNums and currStreakNum colors so all numbers are visible -->
 # 🔥 Contribution Streak
 
 <p align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=2563EB"
+ src="https://streak-stats.demolab.com?user=e4ia&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=2563EB&sideNums=2563EB&currStreakNum=2563EB"
  width="75%"
 />
 
@@ -290,12 +290,13 @@ and how to turn them into better and more reliable projects.
 
 ---
 
+<!-- ✅ FIX: Removed incorrect title=2563EB (was filtering out all trophies). Changed to theme=algolia for blue styling -->
 # 🏆 GitHub Trophies
 
 <p align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=flat&title=2563EB&no-frame=true&no-bg=true&row=1&column=6"
+ src="https://github-profile-trophy.vercel.app/?username=e4ia&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
  width="100%"
 />
 
@@ -303,12 +304,13 @@ and how to turn them into better and more reliable projects.
 
 ---
 
+<!-- ✅ FIX: Added title_color=2563EB so the graph title is visible -->
 # 📈 Contribution Activity
 
 <p align="center">
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=00000000&color=2563EB&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=e4ia&bg_color=00000000&color=2563EB&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true&custom_title=Moheeb's%20Contribution%20Graph&title_color=2563EB"
  width="100%"
 />
 
@@ -375,28 +377,20 @@ and how to turn them into better and more reliable projects.
 ---
 
 <p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=e4ia&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-
 </p>
 
 <p align="center">
-
-<b>⭐ Thanks for visiting my profile!</b>
-
+  <b>⭐ Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-
-<i>Always learning. Always building.</i>
-
+  <i>Always learning. Always building.</i>
 </p>
 
 <p align="center">
-
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=120&section=footer"
- width="100%"
-/>
-
+  <img
+   src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=120&section=footer"
+   width="100%"
+  />
 </p>
